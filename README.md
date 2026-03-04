@@ -1,0 +1,1 @@
+DiskProbe is a lightweight Linux disk diagnostic and inspection utility. It provides a menu-driven interface to inspect disks, partitions, SMART health data, RAID arrays, LVM volumes, filesystem usage, and full storage topology.
